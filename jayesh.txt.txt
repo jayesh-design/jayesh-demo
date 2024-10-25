@@ -1,5 +1,10 @@
 hi Jayesh
 print( hello Jayesh )
+<<<<<<< HEAD
 hi
 i am Jayesh Prajapati 
 from anand
+=======
+
+go to home keyur
+>>>>>>> 3eee3b4d2ef60730f25019f09155e7e976fd19e8

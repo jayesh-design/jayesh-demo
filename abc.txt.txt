@@ -3,3 +3,7 @@
 3. orange
 4. apple
 5. graps
+
+6. papaya
+7. cherry
+8. pineple
